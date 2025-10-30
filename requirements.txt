@@ -1,0 +1,25 @@
+# Core Data Science & ML
+numpy
+pandas
+scikit-learn
+scikit-learn-contrib-imblearn # For SMOTE
+lightgbm # For the alternative model
+shap # For model explainability
+
+# Deep Learning
+torch
+torchvision
+ultralytics # For YOLO
+
+# Image Processing
+opencv-python-headless
+Pillow
+albumentations
+
+# Utilities
+tqdm
+joblib
+
+# Web App
+Flask
+werkzeug
